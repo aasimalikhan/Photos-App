@@ -34,7 +34,7 @@ class SearchBar extends React.Component {
                     <option value="illustration">Illustration</option>
                     <option value="vector">Vector</option>
                     </select>
-                    <button className="ui primary button" style={{'marginTop' : '0.5rem'}} type="submit">Submit</button>
+                    <button className="ui primary button" style={{'marginTop' : '0.5rem'}} type="submit">Search</button>
                 </div>
             </form>
             
